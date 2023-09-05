@@ -2,7 +2,6 @@ package com.toy.kotlinspring.todo.service;
 
 import com.toy.kotlinspring.todo.domain.Todo;
 import com.toy.kotlinspring.todo.domain.TodoRepository;
-import com.toy.kotlinspring.todo.api.model.TodoRequest;
 import java.time.LocalDateTime;
 import java.util.List;
 import org.springframework.data.domain.Sort;
